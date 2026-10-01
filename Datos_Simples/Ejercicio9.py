@@ -1,0 +1,5 @@
+cantidad=float(input("Escribe la cantidad a invertir "))
+interes=float(input("Escribe el interés anual "))
+años=int(input("Escribe el número de años "))
+obtencion=(cantidad*(interes/100)*años)
+print (f"La cantidad de capital obtenido será de {obtencion} €")
