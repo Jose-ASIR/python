@@ -1,0 +1,7 @@
+nombrecompleto=input("Escribe tu nombre completo")
+minusculas= (nombrecompleto).lower()
+mayusculas = (nombrecompleto).upper()
+primeraletra = (nombrecompleto).title()
+print (minusculas)
+print (mayusculas)
+print (primeraletra)
